@@ -5,7 +5,7 @@ A minimal [Express.js](https://expressjs.com/) Node.js server (tutorial-scale) t
 ## Prerequisites
 
 - **Node.js `>= 18`** — required by Express 5.
-- **Node.js 22 LTS (Active LTS)** is recommended for new Express 5 services.
+- **Node.js 22 LTS** is recommended for new Express 5 services.
 - **npm** (bundled with Node.js) is used to install the project dependencies.
 
 ## Install
