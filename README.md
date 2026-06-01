@@ -1,4 +1,4 @@
-# Artifact5
+# Minimal Express.js Server
 
 A minimal [Express.js](https://expressjs.com/) Node.js server (tutorial-scale) that serves two plain-text HTTP endpoints.
 
